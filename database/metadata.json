@@ -1,0 +1,344 @@
+[
+    {
+        "unique_id": "LfLPkLT-SfE",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\LfLPkLT-SfE.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 2974033,
+        "title_analysis": {
+            "title": "Big Girls Don\u2019T Cry Title Track",
+            "title_length": 31,
+            "word_count": 6,
+            "num_tokens_bert": 8,
+            "num_tokens_gpt": 9
+        }
+    },
+    {
+        "unique_id": "VMw78demouo",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\VMw78demouo.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 2576609,
+        "title_analysis": {
+            "title": "Parinda",
+            "title_length": 7,
+            "word_count": 1,
+            "num_tokens_bert": 2,
+            "num_tokens_gpt": 2
+        }
+    },
+    {
+        "unique_id": "0gLkekNIR7E",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\0gLkekNIR7E.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 51365,
+        "title_analysis": {
+            "title": "BIG GIRLS DON\u2019T CRY (Audio Jukebox): Amit Trivedi, Kanishk Seth, Shashwat Sachdev | Nitya Mehra",
+            "title_length": 95,
+            "word_count": 15,
+            "num_tokens_bert": 35,
+            "num_tokens_gpt": 38
+        }
+    },
+    {
+        "unique_id": "cbgS7V1Xwq4",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\cbgS7V1Xwq4.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 7480,
+        "title_analysis": {
+            "title": "Start A Fire",
+            "title_length": 12,
+            "word_count": 3,
+            "num_tokens_bert": 3,
+            "num_tokens_gpt": 3
+        }
+    },
+    {
+        "unique_id": "uu2Xu4mgLvw",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\uu2Xu4mgLvw.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 17457,
+        "title_analysis": {
+            "title": "Bhool Jaa",
+            "title_length": 9,
+            "word_count": 2,
+            "num_tokens_bert": 5,
+            "num_tokens_gpt": 5
+        }
+    },
+    {
+        "unique_id": "_Wp_sOZFzYQ",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\_Wp_sOZFzYQ.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 4174,
+        "title_analysis": {
+            "title": "Ye Sama",
+            "title_length": 7,
+            "word_count": 2,
+            "num_tokens_bert": 3,
+            "num_tokens_gpt": 3
+        }
+    },
+    {
+        "unique_id": "_KvITMkgVkU",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\_KvITMkgVkU.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 16121,
+        "title_analysis": {
+            "title": "Masoom",
+            "title_length": 6,
+            "word_count": 1,
+            "num_tokens_bert": 2,
+            "num_tokens_gpt": 2
+        }
+    },
+    {
+        "unique_id": "1wgf2U4EFJw",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\1wgf2U4EFJw.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 17379,
+        "title_analysis": {
+            "title": "Pehli Sharam",
+            "title_length": 12,
+            "word_count": 2,
+            "num_tokens_bert": 4,
+            "num_tokens_gpt": 5
+        }
+    },
+    {
+        "unique_id": "yGZ2fzcGECg",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\yGZ2fzcGECg.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 7020,
+        "title_analysis": {
+            "title": "Ekla Chalo",
+            "title_length": 10,
+            "word_count": 2,
+            "num_tokens_bert": 4,
+            "num_tokens_gpt": 5
+        }
+    },
+    {
+        "unique_id": "21S3gnZHlBM",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\21S3gnZHlBM.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 23111,
+        "title_analysis": {
+            "title": "Parinda",
+            "title_length": 7,
+            "word_count": 1,
+            "num_tokens_bert": 2,
+            "num_tokens_gpt": 2
+        }
+    },
+    {
+        "unique_id": "j5RxviLDvLc",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\j5RxviLDvLc.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 4647,
+        "title_analysis": {
+            "title": "Big Girls Don\u2019T Cry Title Track",
+            "title_length": 31,
+            "word_count": 6,
+            "num_tokens_bert": 8,
+            "num_tokens_gpt": 9
+        }
+    },
+    {
+        "unique_id": "bOjTFdN2_AM",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\bOjTFdN2_AM.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 105449,
+        "title_analysis": {
+            "title": "Ekla Chalo",
+            "title_length": 10,
+            "word_count": 2,
+            "num_tokens_bert": 4,
+            "num_tokens_gpt": 5
+        }
+    },
+    {
+        "unique_id": "FkScIHM8iao",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\FkScIHM8iao.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 90883,
+        "title_analysis": {
+            "title": "Big Girls Don\u2019t Cry: Pehli Sharam (Song) | Sanjith Hegde, Shashwat Sachdev | Nitya Mehra | #BGDC",
+            "title_length": 96,
+            "word_count": 17,
+            "num_tokens_bert": 38,
+            "num_tokens_gpt": 39
+        }
+    },
+    {
+        "unique_id": "oN9N8hBO-6I",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\oN9N8hBO-6I.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 88104,
+        "title_analysis": {
+            "title": "Ekla Chalo",
+            "title_length": 10,
+            "word_count": 2,
+            "num_tokens_bert": 4,
+            "num_tokens_gpt": 5
+        }
+    },
+    {
+        "unique_id": "MgL_GqiUbUY",
+        "category": "Music",
+        "thumbnail_details": {
+            "path": "database/images\\MgL_GqiUbUY.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 20997,
+        "title_analysis": {
+            "title": "Parinda",
+            "title_length": 7,
+            "word_count": 1,
+            "num_tokens_bert": 2,
+            "num_tokens_gpt": 2
+        }
+    },
+    {
+        "unique_id": "U_LlX4t0A9I",
+        "category": "Entertainment",
+        "thumbnail_details": {
+            "path": "database/images\\U_LlX4t0A9I.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 112488198,
+        "title_analysis": {
+            "title": "$10,000 Every Day You Survive In The Wilderness",
+            "title_length": 47,
+            "word_count": 8,
+            "num_tokens_bert": 11,
+            "num_tokens_gpt": 11
+        }
+    },
+    {
+        "unique_id": "eMOA1pPVUc4",
+        "category": "Education",
+        "thumbnail_details": {
+            "path": "database/images\\eMOA1pPVUc4.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 1537432,
+        "title_analysis": {
+            "title": "Solving real world data science tasks with Python Pandas!",
+            "title_length": 57,
+            "word_count": 9,
+            "num_tokens_bert": 11,
+            "num_tokens_gpt": 12
+        }
+    },
+    {
+        "unique_id": "t98Luhoo-LQ",
+        "category": "Howto & Style",
+        "thumbnail_details": {
+            "path": "database/images\\t98Luhoo-LQ.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 10474,
+        "title_analysis": {
+            "title": "Real Data Visualization with Python, matplotlib, numpy, pandas",
+            "title_length": 62,
+            "word_count": 8,
+            "num_tokens_bert": 18,
+            "num_tokens_gpt": 16
+        }
+    },
+    {
+        "unique_id": "V6sc-HGzBxE",
+        "category": "People & Blogs",
+        "thumbnail_details": {
+            "path": "database/images\\V6sc-HGzBxE.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspect_ratio": "1280:720"
+        },
+        "video_views": 722,
+        "title_analysis": {
+            "title": "Pandas Project : World Health Statistics Dataset from Kaggle | Pandas | Pandas Data Science Tutorial",
+            "title_length": 100,
+            "word_count": 16,
+            "num_tokens_bert": 22,
+            "num_tokens_gpt": 23
+        }
+    }
+]
